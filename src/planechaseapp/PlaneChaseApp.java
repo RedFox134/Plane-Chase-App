@@ -39,7 +39,7 @@ class window extends JFrame{
         setBounds(x,y,1300,850);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         
-        //layout stuff
+        //layout stuff 
         setLayout(null);
         
         //<editor-fold desc="Starting Images" defaultstate="collapsed">
